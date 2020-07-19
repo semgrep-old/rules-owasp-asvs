@@ -1,5 +1,5 @@
 ## Rules Possible:
-
+These are rules which can be directly linked to secure code snippets within the Cheat Sheets. Rules should be relatively easier to write and should be tackled first.
 ###### V3.4 Cookie-based Session Management
 - https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html
 
@@ -164,4 +164,3 @@ Rules which can also have a secure wrapper/library that can be recommended to us
 
 ###### V14.4 HTTP Security Headers Requirements
 - https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html
-
