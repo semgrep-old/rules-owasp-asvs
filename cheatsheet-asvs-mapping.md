@@ -65,7 +65,7 @@
 - https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html
 
 
-## Rules Org/Team/Technology-stack Dependent:
+## Rules Org/Team/Technology Stack Dependent:
 
 ###### V1.7 Errors, Logging and Auditing Architectural Requirements
 - https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html
@@ -101,7 +101,7 @@
 - https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html
 
 
-###### V5.3 Output encoding and Injection Precention Requirements
+###### V5.3 Output encoding and Injection Prevention Requirements
 - https://cheatsheetseries.owasp.org/cheatsheets/HTML5_Security_Cheat_Sheet.html
 - https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html
 
@@ -135,7 +135,7 @@
 - https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html
 
 
-## Rules Reccomend Solution
+## Rules Recommend Solution
 
 ###### V4.2 Operation Level Access Control
 - https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html
