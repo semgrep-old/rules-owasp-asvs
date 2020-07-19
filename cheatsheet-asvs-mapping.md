@@ -66,7 +66,7 @@
 
 
 ## Rules Recommend Solution
-
+Rules which can also have a secure wrapper/library that can be recommended to use e.g. DOMPurify.
 ###### V4.2 Operation Level Access Control
 - https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html
 
@@ -164,5 +164,4 @@
 
 ###### V14.4 HTTP Security Headers Requirements
 - https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html
-
 
