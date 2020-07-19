@@ -65,6 +65,26 @@
 - https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html
 
 
+## Rules Recommend Solution
+
+###### V4.2 Operation Level Access Control
+- https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html
+
+
+###### V5.3 Output encoding and Injection Prevention Requirements
+- https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html
+
+
+###### V7.1 Log Content Requirements
+###### V7.2 Log Processing Requirements
+###### V7.3 Log Protection Requirements
+- https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html
+
+
+###### V12.1 File Upload Requirements
+- https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html
+
+
 ## Rules Org/Team/Technology Stack Dependent:
 
 ###### V1.7 Errors, Logging and Auditing Architectural Requirements
@@ -134,23 +154,4 @@
 ###### V14.4 HTTP Security Headers Requirements
 - https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html
 
-
-## Rules Recommend Solution
-
-###### V4.2 Operation Level Access Control
-- https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html
-
-
-###### V5.3 Output encoding and Injection Prevention Requirements
-- https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html
-
-
-###### V7.1 Log Content Requirements
-###### V7.2 Log Processing Requirements
-###### V7.3 Log Protection Requirements
-- https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html
-
-
-###### V12.1 File Upload Requirements
-- https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html
 
