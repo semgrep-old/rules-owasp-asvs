@@ -97,7 +97,7 @@ Rules which can also have a secure wrapper/library that can be recommended to us
 
 
 ## Rules Org/Team/Technology Stack Dependent:
-This is a little tricker, as rules are possible but very much dependent on the security team/org approach. Perhaps this would be more of a community effort and secure patterns that have already found success.
+This is a little trickier, as rules are possible but very much dependent on the security team/org approach. Perhaps this would be more of a community effort and secure patterns that have already found success.
 ###### V1.7 Errors, Logging and Auditing Architectural Requirements
 - https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html
 
